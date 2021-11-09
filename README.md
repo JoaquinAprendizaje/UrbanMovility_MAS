@@ -9,4 +9,5 @@ Los agentes que podrían estar involucrados en la simulación son los siguientes
 - Automóvil
 - Semáforo
 - Peatón
+- ciclistas
 
